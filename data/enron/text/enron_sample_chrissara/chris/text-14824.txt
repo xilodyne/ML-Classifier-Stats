@@ -1,0 +1,1 @@
+  rate effect 412001 total transport rate 1861 dt fuel cost 189 effect april 1 2001

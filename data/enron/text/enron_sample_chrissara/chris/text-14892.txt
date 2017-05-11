@@ -1,0 +1,1 @@
+  tp2 is buy spinnak gas deal 632998 from gulf 1 at zone 2 if deal 657407 tp2 is sell the gas back to gulf1 at if plus variabl cost deal 657409 at st 45 it is my understand that the transport commod rate for gas from this well is 02 plus fuel so i just chang the price on deal 657409 from z2 if 09 to z2 if 045 we should see about 6800000 move from tp2 to gulf 1

@@ -1,0 +1,1 @@
+  the 2 transco deliveri point for the cpl rfp 6608 and 6562 are upstream of the zone 5 pool so we should be abl to segment the longhaul vng space meter mainlin mile marker later mile marker 6608 pscn gaston 132351 0 6562 nc nat gas 137551 0 9167 zone 5 sta 165 ena ft pool 141299 0 941 emporia 141299 10289

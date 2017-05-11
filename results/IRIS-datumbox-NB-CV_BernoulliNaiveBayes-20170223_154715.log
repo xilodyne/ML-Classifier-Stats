@@ -1,0 +1,14 @@
+
+03:47:15.846 [xilodyne.machinelearning.test.datumbox.Classification_IrisData_MultinominalNB] [Log Level: INFO]
+03:47:15.846 [main] 
+03:47:15.846 Log file: C:\Backup\Java8-Luna\MachineLearning\workspace-Udacity\ML-Testing\results\IRIS-datumbox-NB-CV_BernoulliNaiveBayes-20170223_154715.log
+03:47:16.478 [getMLStats] Class tested: com.datumbox.framework.core.machinelearning.classification.BernoulliNaiveBayes
+03:47:16.478 [getMLStats] Accuracy: 0.13333333333333333%
+03:47:16.478 [getMLStats] Total lines training: 135
+03:47:16.478 [getMLStats] Total lines predicted: 15
+03:47:16.478 [getMLStats] Activity	Time (in seconds)	% of Total Duration
+03:47:16.478 [getMLStats] --------	-----------------	-------------------
+03:47:16.482 [getMLStats] Data setup	0.472			75%
+03:47:16.482 [getMLStats] Fit		0.145			23%
+03:47:16.482 [getMLStats] Predict	0.009			1%
+03:47:16.482 [getMLStats] Total Time	0.626

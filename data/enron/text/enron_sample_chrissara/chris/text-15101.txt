@@ -1,0 +1,1 @@
+  we have a ftgss contract with a mdq of 40148 dts the primari receipt point on this contract is storag but we can flow some of this gas from secondari point like oakford or the pool how much gas can be sourc from secondari receipt point

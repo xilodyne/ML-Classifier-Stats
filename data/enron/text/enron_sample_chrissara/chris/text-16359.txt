@@ -1,0 +1,1 @@
+ cgerman nonprivilegedpst when i look up this contract in passkey i show an mdq of 16373 we think it should be 4723 with the follow primari receipt point leg mdq 800 1228 500 897 z0 2598 i might be look in the wrong screen i am go under contractscontract maintenancereview

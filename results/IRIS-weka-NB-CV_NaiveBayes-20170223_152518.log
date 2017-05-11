@@ -1,0 +1,39 @@
+
+03:25:18.499 [xilodyne.machinelearning.test.weka.Weka_IRIS_NB_CV] [Log Level: FINE]
+03:25:18.499 [runClassifier] Running Weka Naive Bayes classification for Iris Data.
+03:25:18.499 Log file: C:\Backup\Java8-Luna\MachineLearning\workspace-Udacity\ML-Testing\results\IRIS-weka-NB-CV_NaiveBayes-20170223_152518.log
+03:25:18.503 [runClassifier] 
+
+
+
+
+03:25:18.504 [runClassifier] ==================================================
+03:25:18.504 [runClassifier] weka.classifiers.bayes.NaiveBayes
+03:25:18.504 [runClassifier] Generating test data
+03:25:19.392 [predict] 
+03:25:19.392 [predict] === Setup ===
+03:25:19.392 [predict] Classifier: weka.classifiers.bayes.NaiveBayes 
+03:25:19.392 [predict] Dataset: iris
+03:25:19.392 [predict] Folds: 10
+03:25:19.393 [predict] Seed: 1
+03:25:19.393 [predict] 
+03:25:19.394 [predict] === 10-fold Cross-validation ===
+Correctly Classified Instances         144               96      %
+Incorrectly Classified Instances         6                4      %
+Kappa statistic                          0.94  
+Mean absolute error                      0.0342
+Root mean squared error                  0.155 
+Relative absolute error                  7.6997 %
+Root relative squared error             32.8794 %
+Total Number of Instances              150     
+
+03:25:19.396 [getMLStats] Class tested: weka.classifiers.bayes.NaiveBayes
+03:25:19.396 [getMLStats] Accuracy: 96.0%
+03:25:19.396 [getMLStats] Total lines training: 0
+03:25:19.396 [getMLStats] Total lines predicted: 0
+03:25:19.396 [getMLStats] Activity	Time (in seconds)	% of Total Duration
+03:25:19.396 [getMLStats] --------	-----------------	-------------------
+03:25:19.400 [getMLStats] Data setup	0.685			77%
+03:25:19.400 [getMLStats] Fit		0.0			0%
+03:25:19.401 [getMLStats] Predict	0.207			23%
+03:25:19.401 [getMLStats] Total Time	0.892

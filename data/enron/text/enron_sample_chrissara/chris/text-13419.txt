@@ -1,0 +1,1 @@
+  i wont be here tomorrow but i found an error on the new power deal i enter yesterday deal previous vol rate current vol rate pl impact 508872 buy 540596 60736 234908 56860 1947000 posit 508870 sell 540596 47525 234908 47525 1452000 negat net impact 495000

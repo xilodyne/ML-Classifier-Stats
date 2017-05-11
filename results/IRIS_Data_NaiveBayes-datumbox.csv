@@ -1,0 +1,5 @@
+timestamp,class name,accuracy,CV Fold,# of lines,# trained,date time,train time,predict time,total time,
+20170223_154645,com.datumbox.framework.core.machinelearning.classification.MultinomialNaiveBayes,0.4666666666666667,0,135,15,0.39,0.097,0.009,0.496,
+20170223_154715,com.datumbox.framework.core.machinelearning.classification.BernoulliNaiveBayes,0.13333333333333333,0,135,15,0.472,0.145,0.009,0.626,
+20170223_154756,com.datumbox.framework.core.machinelearning.classification.BinarizedNaiveBayes,20170223_154807,com.datumbox.framework.core.machinelearning.classification.BinarizedNaiveBayes,0.13333333333333333,0,135,15,0.412,0.095,0.011,0.518,
+20170223_154809,com.datumbox.framework.core.machinelearning.classification.BinarizedNaiveBayes,0.13333333333333333,0,135,15,0.372,0.089,0.01,0.471,

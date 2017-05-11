@@ -1,0 +1,4 @@
+timestamp,class name,accuracy,CV Fold,# of lines,# trained,date time,train time,predict time,total time,
+20170223_153252,smile.classification.NaiveBayes,94.66666666666667,0,0,149,0.093,0.0,33.739,33.832,
+20170223_153338,smile.classification.NaiveBayes,94.66666666666667,0,0,149,0.031,0.0,33.7,33.731,
+20170223_153516,smile.classification.NaiveBayes,94.66666666666667,0,0,149,0.049,0.0,33.525,33.574,

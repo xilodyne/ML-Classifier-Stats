@@ -1,0 +1,1 @@
+ cgerman nonprivilegedpst i move the sale to nypa at mamou from tp3 to tp1 effect 1012001 the old deal number is 815952 the new deal number is 1063956 kimat i just took the volum to 0 effect 1012001 on deal 815952 should we just delet the line on the deal ticket for date after 1012001 effect 1012001 the primari desk for transport on tgt will be tp1

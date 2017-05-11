@@ -1,0 +1,5 @@
+timestamp,class name,accuracy,CV Fold,# of lines,# trained,date time,train time,predict time,total time,
+20170223_152448,weka.classifiers.bayes.NaiveBayes,93.33333333333333,0,135,15,0.982,0.025,0.011,1.0179999999999998,
+20170223_152506,weka.classifiers.bayes.NaiveBayesUpdateable,93.33333333333333,0,135,15,0.785,0.023,0.007,0.8150000000000001,
+20170223_152518,weka.classifiers.bayes.NaiveBayes,96.0,10,0,0,0.685,0.0,0.207,0.892,
+20170223_152531,weka.classifiers.bayes.NaiveBayesUpdateable,96.0,10,0,0,0.67,0.0,0.211,0.881,

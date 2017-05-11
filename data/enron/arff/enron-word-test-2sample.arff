@@ -1,0 +1,8 @@
+@relation C__Backup_JavaCode_Java8-Luna_Projects_MachineLearning_worksapace-Udacity_workspace-IntroML_IntroML-L1-Minpro1-EnronSubset_._data_text_enron_sample_20
+
+@attribute text string
+@attribute @@class@@ {chris,sara}
+
+@data
+'  marti also left you a voic mail are we readi to send execut copi \r\n',chris
+' sbaile2 nonprivilegedpst origin messag from   sent thursday februari 14 2002 1202 pm to ellenberg mark aronowitz alan bailey susan boyd samantha panus stephani subject mark q has move to eb 3820 where there is a work phone   enron wholesal servic 1400 smith street eb3801a houston tx 77002 ph 713 8535620 fax 713 6463490\r\n',sara
